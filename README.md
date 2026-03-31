@@ -1,5 +1,32 @@
+👋 I’m Siddhi Gaikwad
+
+Data Analyst | Machine Learning Enthusiast | Building Data-Driven Solutions
+
+📊 Passionate about turning data into actionable insights
+🚀 Focused on real-world projects with measurable impact
+💡 Skilled in Python, SQL, Machine Learning & Data Visualization
+
+🎓 Graduate | Data Science & Analytics
+🌍 Open to collaborations on impactful data projects
+
 # 💫 About Me:
-🔭 I’m currently working on<br>Building data-driven solutions and deploying machine learning models to solve real-world problems<br><br>👯 I’m looking to collaborate on<br>Data science, analytics, and machine learning projects with real-world impact<br><br>🤝 I’m looking for help with<br>Advanced ML techniques, model deployment, and scalable data pipelines<br><br>🌱 I’m currently learning<br>Deep learning, MLOps, and advanced data engineering concepts<br><br>💬 Ask me about<br>Python, SQL, data analysis, machine learning, and real-world project building<br><br>⚡ Fun fact<br>I love turning messy data into meaningful insights that actually drive decisions 🚀
+🔭 I’m currently working on
+Building data-driven solutions and deploying machine learning models to solve real-world problems
+
+👯 I’m looking to collaborate on
+Data science, analytics, and machine learning projects with real-world impact
+
+🤝 I’m looking for help with
+Advanced ML techniques, model deployment, and scalable data pipelines
+
+🌱 I’m currently learning
+Deep learning, MLOps, and advanced data engineering concepts
+
+💬 Ask me about
+Python, SQL, data analysis, machine learning, and real-world project building
+
+⚡ Fun fact
+I love turning messy data into meaningful insights that actually drive decisions 🚀
 
 
 ## 🌐 Socials:
